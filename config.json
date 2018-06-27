@@ -1,0 +1,6 @@
+{
+  "functionName": "name",
+  "role": "role",
+  "runtime": "nodejs8.10",
+  "region": "us-west-1"
+}
